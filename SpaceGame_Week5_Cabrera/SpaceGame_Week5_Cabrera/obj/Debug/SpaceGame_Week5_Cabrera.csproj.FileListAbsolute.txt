@@ -1,0 +1,7 @@
+C:\Users\Cabrera\source\repos\SpaceGame_Week5_Cabrera\SpaceGame_Week5_Cabrera\obj\Debug\SpaceGame_Week5_Cabrera.csprojAssemblyReference.cache
+C:\Users\Cabrera\source\repos\SpaceGame_Week5_Cabrera\SpaceGame_Week5_Cabrera\obj\Debug\SpaceGame_Week5_Cabrera.csproj.CoreCompileInputs.cache
+C:\Users\Cabrera\source\repos\SpaceGame_Week5_Cabrera\SpaceGame_Week5_Cabrera\bin\Debug\SpaceGame_Week5_Cabrera.exe.config
+C:\Users\Cabrera\source\repos\SpaceGame_Week5_Cabrera\SpaceGame_Week5_Cabrera\bin\Debug\SpaceGame_Week5_Cabrera.exe
+C:\Users\Cabrera\source\repos\SpaceGame_Week5_Cabrera\SpaceGame_Week5_Cabrera\bin\Debug\SpaceGame_Week5_Cabrera.pdb
+C:\Users\Cabrera\source\repos\SpaceGame_Week5_Cabrera\SpaceGame_Week5_Cabrera\obj\Debug\SpaceGame_Week5_Cabrera.exe
+C:\Users\Cabrera\source\repos\SpaceGame_Week5_Cabrera\SpaceGame_Week5_Cabrera\obj\Debug\SpaceGame_Week5_Cabrera.pdb
